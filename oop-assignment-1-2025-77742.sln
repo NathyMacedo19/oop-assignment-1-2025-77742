@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36705.20 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-assignment-1-2025-77742", "oop-assignment-1-2025-77742\oop-assignment-1-2025-77742.csproj", "{4F47F7EA-D8AA-4B7A-9530-609CA96B163F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerTools.tests", "PowerTools.tests\PowerTools.tests.csproj", "{4E786C71-F250-45E9-BE54-6A66E9E95B6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4F47F7EA-D8AA-4B7A-9530-609CA96B163F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F47F7EA-D8AA-4B7A-9530-609CA96B163F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F47F7EA-D8AA-4B7A-9530-609CA96B163F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E786C71-F250-45E9-BE54-6A66E9E95B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E786C71-F250-45E9-BE54-6A66E9E95B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E786C71-F250-45E9-BE54-6A66E9E95B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E786C71-F250-45E9-BE54-6A66E9E95B6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
